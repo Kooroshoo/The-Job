@@ -2,7 +2,7 @@
 "The Job" was a game created with Unity (2019.2.8f1) at the 2019 Bohemia Interactive gamedev Challenge.
 bohemiainteractive Gamedev Challenge is a 48h competition in making #games. The challenge is part of GDS Jam and is hosted by Faculty of Mathematics and Physics, Charles University, #prague .
 
-The team consisted of tree people:
+The team consisted of tree people:  
 Kryštof Josefus - Artist and Game Designer.  
 Krystof Novak - Artist and Game Designer.  
 Kourosh Riahidehkordi - Programmer.  
