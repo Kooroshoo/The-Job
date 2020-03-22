@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Main Levels/Level_01.unity
+    guid: 21e7667d85b61e94c94eac72be7117fd
+  - enabled: 1
+    path: Assets/_Main Levels/CMD.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Main Levels/game over yes man.unity
+    guid: a8947b0013ce67a4fa175684f938df61
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver.unity
+    guid: a8e015ee4b76b594d9ab74a310336dcf
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver (Liar).unity
+    guid: 77d0dbe82b8ab174ba8a038c2b17b2c8
+  - enabled: 1
+    path: Assets/_Main Levels/gameover (Monster).unity
+    guid: a946671b45d64634ca7cbee3ec46eb44
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver (waste of time).unity
+    guid: a7fcaa1f67de55f4fad4bb2f935967b7
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver playwork.unity
+    guid: 75181827a8fe4194d9fe2e13ae5dd8b7
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver(boring).unity
+    guid: 9589a29f1d1f45b48a6b7f7e78b3ec0c
+  - enabled: 1
+    path: Assets/_Main Levels/GameOver(Hired.unity
+    guid: 7cae623d68d1cdb4fb9b9b08b54da2ae
+  - enabled: 1
+    path: Assets/_Main Levels/hired.unity
+    guid: cbe9d6c3ab210c2468d3b314344bffbc
+  - enabled: 1
+    path: Assets/_Main Levels/liar2.unity
+    guid: 3a9e5491379b3514c8afe06b6d44f569
+  - enabled: 1
+    path: Assets/_Main Levels/MainMessage.unity
+    guid: 9fb54ea9a09ff304bb782929c0eb4d4b
+  - enabled: 1
+    path: Assets/_Main Levels/testcopy.unity
+    guid: 705d0cc8140a29848ae0477102b978bc
+  m_configObjects: {}
