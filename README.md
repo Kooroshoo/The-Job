@@ -4,7 +4,9 @@ bohemiainteractive Gamedev Challenge is a 48h competition in making #games. The 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/26629624/77255020-d12ae480-6c64-11ea-8d1d-79adfeb5f6b0.gif)
 
-The team consisted of tree people:  
-Kryštof Josefus - Artist and Game Designer.  
-Krystof Novak - Artist and Game Designer.  
-Kourosh Riahidehkordi - Programmer.  
+The team consisted of tree people:   
+<ul>
+<li>Kryštof Josefus - Artist and Game Designer.</li>
+<li>Krystof Novak - Artist and Game Designer.  </li>
+<li>Kourosh Riahidehkordi - Programmer. </li>
+</ul>
