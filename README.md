@@ -9,6 +9,6 @@ The topic of the chalenge was "Meaningful Decisions".
 The team consisted of tree people:   
 <ul>
 <li>Kryštof Josefus - Artist and Game Designer.</li>
-<li>Krystof Novak - Artist and Game Designer.  </li>
+<li>Krystof Novak - Artist</li>
 <li>Kourosh Riahidehkordi - Programmer. </li>
 </ul>
